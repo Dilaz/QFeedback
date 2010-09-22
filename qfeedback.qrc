@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QFeedback">
+        <file>QFeedback.png</file>
+    </qresource>
+</RCC>
